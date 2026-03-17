@@ -1,10 +1,9 @@
 import os
-from turtle import update
 from fastmcp import FastMCP
 import httpx
 from config import settings
 import json
-from typing import Optional, Dict, Any
+from typing import Optional
 from starlette.middleware.cors import CORSMiddleware
 from starlette.middleware import Middleware
 
