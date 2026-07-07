@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/moksh555-githubmcpserver-badge.png)](https://mseep.ai/app/moksh555-githubmcpserver)
+
 # GitHubMcpServer
 
 <div align="center">
